@@ -1,0 +1,6 @@
+a<- list("orange","mango","apple","watermelon","banana")
+b<- list("appy","fruity","slice")
+c<- list("Mango", "papaya","chocolate", "Rose")
+print(a)
+print(b)
+print(c)
